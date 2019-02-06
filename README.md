@@ -1,7 +1,7 @@
 ## Client did not pay?
 
 
-Add opacity to the body tag and increase it every day until their site completely fades away. Set a due date and customize the number of days you offer them until the website is fully vanished. 
+Add opacity to the body tag and increase it every hour until their site completely fades away. Set a hours_date and customize the number of hours you offer them until the website is fully vanished. 
 
 
 ```javascript
@@ -18,3 +18,5 @@ Just load the .js file in ```<head>```
 
 Inspired from twitter (@riklomas)
 Made by Ciprian, Romania
+Reinspired from twitter (@carnal0wnage)
+Tweaked by Ahhh
