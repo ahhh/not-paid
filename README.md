@@ -17,6 +17,9 @@ Just load the .js file in ```<head>```
 ## Author
 
 Inspired from twitter (@riklomas)
+
 Made by Ciprian, Romania
+
 Reinspired from twitter (@carnal0wnage)
+
 Tweaked by Ahhh
