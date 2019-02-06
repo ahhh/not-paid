@@ -6,7 +6,8 @@ Add opacity to the body tag and increase it every day until their site completel
 
 ```javascript
 /* change these variables as you wish */
-	var hours_deadline = 4;
+	var hours_date = 1549479538; // Unix timestamp of date you want body to vanish
+	var hours_deadline = 4; // Hourly time difference between current hour and unix timestamp date
 /* stop changing here */
 ```
 
