@@ -6,7 +6,7 @@
 	var current_date = new Date();
 	var utc1 = Date.UTC(current_date.getFullYear(), current_date.getMonth(), current_date.getDate());
 	var utc2 = utc1 + (hours_deadline * 60 * 60)
-	var hours = Math.floor((utc2 - utc1) / (1000 * 60 * 60));
+	var hours = Math.floor((utc2 - utc1) / (60 * 60));
 	
 	if(hours > 0) {
 		var hours_late = hours_deadline-hours;
